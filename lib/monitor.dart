@@ -77,7 +77,7 @@ class _MonitorPageState extends State<MonitorPage> {
                           child: Row(
                             mainAxisAlignment: MainAxisAlignment.spaceBetween,
                             children: [
-                              Text("Vehicle No: AS B1020"),
+                              Text("Vehicle No: AS B1030"),
                               Material(
                                   elevation: 10,
                                   shadowColor: Colors.red,
@@ -122,7 +122,7 @@ class _MonitorPageState extends State<MonitorPage> {
                           child: Row(
                             mainAxisAlignment: MainAxisAlignment.spaceBetween,
                             children: [
-                              Text("Vehicle No: AS B1020"),
+                              Text("Vehicle No: AS A1020"),
                               Material(
                                   elevation: 10,
                                   shadowColor: Colors.red,
@@ -141,7 +141,7 @@ class _MonitorPageState extends State<MonitorPage> {
                             mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                             children: [
                               Center(
-                                child: Text("Device ID A20201"),
+                                child: Text("Device ID A20202"),
                               ),
                               Text("speed: 100+"),
                             ],
@@ -167,7 +167,7 @@ class _MonitorPageState extends State<MonitorPage> {
                           child: Row(
                             mainAxisAlignment: MainAxisAlignment.spaceBetween,
                             children: [
-                              Text("Vehicle No: AS B1020"),
+                              Text("Vehicle No: AS v1040"),
                               Material(
                                   elevation: 10,
                                   shadowColor: Colors.red,
@@ -187,7 +187,7 @@ class _MonitorPageState extends State<MonitorPage> {
                             mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                             children: [
                               Center(
-                                child: Text("Device ID A20201"),
+                                child: Text("Device ID A20204"),
                               ),
                               Text("speed: 60+"),
                             ],
@@ -213,7 +213,7 @@ class _MonitorPageState extends State<MonitorPage> {
                           child: Row(
                             mainAxisAlignment: MainAxisAlignment.spaceBetween,
                             children: [
-                              Text("Vehicle No: AS B1020"),
+                              Text("Vehicle No: AS d1220"),
                               Material(
                                   elevation: 10,
                                   shadowColor: Colors.red,
@@ -232,7 +232,7 @@ class _MonitorPageState extends State<MonitorPage> {
                             mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                             children: [
                               Center(
-                                child: Text("Device ID A20201"),
+                                child: Text("Device ID A20208"),
                               ),
                               Text("speed: 90+"),
                             ],
@@ -258,16 +258,17 @@ class _MonitorPageState extends State<MonitorPage> {
                           child: Row(
                             mainAxisAlignment: MainAxisAlignment.spaceBetween,
                             children: [
-                              Text("Vehicle No: AS B1020"),
+                              Text("Vehicle No: AS B1022"),
                               Material(
                                   elevation: 10,
                                   shadowColor: Colors.red,
                                   child: Container(
                                       height: 20,
-                                      width: 150,
+                                      width: 200,
                                       // color: Colors.red,
                                       child: Center(
-                                          child: Text("Crossed restred area"))))
+                                          child:
+                                              Text("Crossed restricted area"))))
                             ],
                           ),
                         ),

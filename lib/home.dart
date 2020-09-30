@@ -50,12 +50,12 @@ class _Navigator_pageState extends State<Navigator_page> {
               activeColor: Colors.greenAccent,
               inactiveColor: Colors.black45),
           BottomNavyBarItem(
-              icon: Icon(Icons.event_available),
+              icon: Icon(Icons.access_alarm),
               title: Text('Faulters'),
               activeColor: Colors.redAccent[100],
               inactiveColor: Colors.black45),
           BottomNavyBarItem(
-              icon: Icon(Icons.school),
+              icon: Icon(Icons.search),
               title: Text('Track'),
               activeColor: Colors.pink[300],
               inactiveColor: Colors.black45),
